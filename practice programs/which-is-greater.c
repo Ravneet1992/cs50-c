@@ -4,8 +4,9 @@
 int main(void)
 
 {
-    int x = get_int("x:");
-    int y = get_int("y:");
+        // declaring variables
+        int x = get_int("x:");
+        int y = get_int("y:");
 
         // if x is smaller
         if(x<y)
