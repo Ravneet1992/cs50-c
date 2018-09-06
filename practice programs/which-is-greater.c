@@ -4,12 +4,12 @@
 int main(void)
 
 {
-    int x= get_int("x:");
-    int y= get_int("y:");
+    int x = get_int("x:");
+    int y = get_int("y:");
 
         if(x<y)
         {
-        printf("x is less than y\n");
+            printf("x is less than y\n");
         }
         else if(x>y)
         {
