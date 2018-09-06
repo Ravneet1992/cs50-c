@@ -3,8 +3,9 @@
 
 int main(void)
 {
+
     int x = get_int("x:");
-   {
-    printf("%d\n", x);
-}
+    {
+        printf("%d\n" , x);
+    }
 }
