@@ -5,6 +5,7 @@
 int main(void)
 {
 
+  // declare two variables
   float x = get_float("x:");
   float y = get_float("y:");
 
