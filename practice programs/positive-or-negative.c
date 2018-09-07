@@ -4,7 +4,7 @@
 int main(void)
 {
 
-    int x = get_int("x:");
+    int x = get_float2("x:");
 
     if(x>0)
         {
